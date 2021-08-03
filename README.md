@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divyanshparida2009
 - 👀 I’m interested in tech and windows
-- 🌱 I’m currently learning Year 6 work
+- 🌱 I’m currently learning Year 7 work
 - 💞️ I’m looking to collaborate on many files
 - 📫 How to reach me please contact me on GitHub
 
